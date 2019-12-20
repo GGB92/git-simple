@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+BRANCH
 Hello git! New COmmit
 Add new line
 =======
