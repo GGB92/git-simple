@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 Hello git! New COmmit
 Add new line
-=======
-Hello git!
+
